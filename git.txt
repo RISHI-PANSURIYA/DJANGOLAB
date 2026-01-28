@@ -1,0 +1,4 @@
+git add . // all files add
+git commit -am " "
+git push origin main //push
+git pull orgin main //pull
